@@ -43,8 +43,8 @@
   <span style="color: #7e1313">🐧 Description</span><br>
   <span style="color:white">A discord bot linked with a GoogleSheets API and a custom API for a site to fill in discord forms and send them both to the site and to automatically fill in googlesheets. And much more!</span>
 </blockquote>
-<div align="center" style="; width: 500px">
-<img src="https://i.postimg.cc/0yjvt70D/Botdiscord.png">
+<div align="center" style=";">
+<img width="500px"src="https://i.postimg.cc/0yjvt70D/Botdiscord.png">
 </div>
 
 <h5 align="center" style="; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Secret Project</h5>
