@@ -43,7 +43,7 @@
   <span style="color: #7e1313">🐧 Description</span><br>
   <span style="color:white">A discord bot linked with a GoogleSheets API and a custom API for a site to fill in discord forms and send them both to the site and to automatically fill in googlesheets. And much more!</span>
 </blockquote>
-<div align="center" style="; width: 100%;">
+<div align="center" style="; width: 500px">
 <img src="https://i.postimg.cc/0yjvt70D/Botdiscord.png">
 </div>
 
@@ -60,7 +60,3 @@
 </div>
 
 ---
-
-
-
-
