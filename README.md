@@ -58,7 +58,7 @@ Naruto Storm Tools
 
 </blockquote>
 
-([Link]((https://narutostormtools.com))
+[Link](https://narutostormtools.com)
 
 <div align="center" style="width: 100%;">
 
