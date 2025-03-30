@@ -58,7 +58,7 @@ Naruto Storm Tools
 
 </blockquote>
 
-[Link](https://narutostormtools.com)
+<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Link](https://narutostormtools.com)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Lien](https://narutostormtools.com)
 
 <div align="center" style="width: 100%;">
 
