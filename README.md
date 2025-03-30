@@ -24,9 +24,8 @@ Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france
 
 </blockquote>
 
-<h4 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Languages and Tools 🇬🇧 :</h4>
+<h4 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Languages and Tools <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> / Langages et outils <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> :</h4>
 
-Langages et outils 🇫🇷 :
 <p align="center">
 
 <a href="https://skillicons.dev">
