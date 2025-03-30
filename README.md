@@ -2,7 +2,7 @@ Hi Everyone! 🇬🇧 🤞🫸🔴🔵🫷🤌🫴🟣
 Bonjour à tous ! 🇫🇷 🤞🫸🔴🔵🫷🤌🫴🟣
 <h4 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Presentation 🇬🇧 :</h4>
 
-Présentation 🇫🇷 :
+Présentation :fr: :
 I started developing in 2022, and now I've mastered several tools and technologies, mainly in Python, Javascript and PHP. I started coding as a career change and now I'm passionate about it.
 
 J'ai commencé à développer en 2022, et maintenant je maîtrise plusieurs outils et technologies, principalement en Python, Javascript et PHP. J'ai commencé à coder comme un changement de carrière et maintenant je suis passionné par cela.
