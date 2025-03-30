@@ -41,10 +41,10 @@ Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france
 
 <h5 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Naruto Storm Tools 🇬🇧</h5>
 
-Naruto Storm Tools 🇫🇷
+Naruto Storm Tools
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇬🇧</span><br>
+<span style="color: #7e1313"> <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/></span><br>
 
 <span style="color:white">Naruto storm Tools is a tool that lets you search for the ninja tools of the characters in the Naruto ultimate ninja storm connections game, with multiple filters that are only visible when playing the character. A wiki of the game's characters and their tools.</span>
 
@@ -52,7 +52,7 @@ Naruto Storm Tools 🇫🇷
 
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇫🇷</span><br>
+<span style="color: #7e1313"><img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/></span><br>
 
 <span style="color:white">Naruto Storm Tools est un outil qui vous permet de rechercher les outils de ninja des personnages dans le jeu Naruto Ultimate Ninja Storm Connections, avec plusieurs filtres qui ne sont visibles que lors de la lecture du personnage. Un wiki des personnages du jeu et de leurs outils.</span>
 
