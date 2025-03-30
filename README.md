@@ -1,19 +1,16 @@
-Hi Everyone! 🇬🇧 🤞🫸🔴🔵🫷🤌🫴🟣
-Bonjour à tous ! 🇫🇷 🤞🫸🔴🔵🫷🤌🫴🟣
+Hi Everyone! <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> 🤞🫸🔴🔵🫷🤌🫴🟣
+Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> 🤞🫸🔴🔵🫷🤌🫴🟣
 <h4 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Presentation 🇬🇧 :</h4>
 
 
-<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> I started developing in 2022, and now I've mastered several tools and technologies, mainly in Python, Javascript and PHP. I started coding as a career change and now I'm passionate about it.
+<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> : I started developing in 2022, and now I've mastered several tools and technologies, mainly in Python, Javascript and PHP. I started coding as a career change and now I'm passionate about it.
 
 <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> : J'ai commencé à développer en 2022, et maintenant je maîtrise plusieurs outils et technologies, principalement en Python, Javascript et PHP. J'ai commencé à coder comme un changement de carrière et maintenant je suis passionné par cela.
 
-🔗 My website here: title
-
-🔗 Mon site ici : titre
 
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid green;">
 
-<span style="color:green">🐧 Tip 🇬🇧</span><br>
+<span style="color:green">🐧 <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> : Tip </span><br>
 
 <span style="color:white">if you need more information about me or need to contact me, add me on discord - yeodbgt</span>
 
@@ -21,7 +18,7 @@ Bonjour à tous ! 🇫🇷 🤞🫸🔴🔵🫷🤌🫴🟣
 
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid green;">
 
-<span style="color:green">🐧 Conseil 🇫🇷</span><br>
+<span style="color:green">🐧 <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> : Conseil </span><br>
 
 <span style="color:white">si vous avez besoin de plus d'informations sur moi ou besoin de me contacter, ajoutez-moi sur discord - yeodbgt</span>
 
