@@ -58,11 +58,13 @@
 
 </blockquote>
 
-<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Link](https://narutostormtools.com)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Lien](https://narutostormtools.com)
+
 
 <div align="center" style="width: 100%;">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0OWl0emlrcjV2aWMxbmVzYjNlMzEzNnE4eWtrcG04ZXl2aHA1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EIEWfmguJBQpBaruSo/giphy.gif" width="500px" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block ;">
+
+<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Link](https://narutostormtools.com)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Lien](https://narutostormtools.com)
 
 </div>
 
@@ -84,11 +86,13 @@
 
 </blockquote>
 
-<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie](https://github.com/YeoDBGT/DiscordBot)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire](https://github.com/YeoDBGT/DiscordBot)
+
 
 <div align="center" style=";">
 
 <img width="500px" src="https://res.cloudinary.com/jesse-thisdot/image/upload/c_limit,w_2000/f_auto/q_auto/v1624792468/e-603fc45fe6c0b4006873802f/pjqquf3fmruscm79fbat.gif">
+
+<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie](https://github.com/YeoDBGT/DiscordBot)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire](https://github.com/YeoDBGT/DiscordBot)
 
 </div>
 
