@@ -1,5 +1,5 @@
-# Hi Everyone! <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> 🤞🫸🔴🔵🫷🤌🫴🟣
-Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> 🤞🫸🔴🔵🫷🤌🫴🟣
+# Hi Everyone! <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> / Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> 🤞🫸🔴🔵🫷🤌🫴🟣
+
 <h4 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Presentation <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> /Présentation <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/> :</h4>
 
 
