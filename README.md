@@ -66,12 +66,11 @@ Naruto Storm Tools
 
 </div>
 
-<h5 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">A Discord Bot 🇬🇧</h5>
+<h5 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Discord Bot <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/> Bot Discord <img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/></h5>
 
-Un Bot Discord 🇫🇷
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇬🇧</span><br>
+<span style="color: #7e1313"><img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/></span><br>
 
 <span style="color:white">A discord bot linked with a GoogleSheets API and a custom API for a site to fill in discord forms and send them both to the site and to automatically fill in googlesheets. And much more!</span>
 
@@ -79,19 +78,17 @@ Un Bot Discord 🇫🇷
 
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇫🇷</span><br>
+<span style="color: #7e1313"><img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/></span><br>
 
 <span style="color:white">Un bot Discord lié à une API GoogleSheets et une API personnalisée pour un site afin de remplir des formulaires Discord et de les envoyer à la fois sur le site et de remplir automatiquement les GoogleSheets. Et bien plus encore !</span>
 
 </blockquote>
 
-Repositerie here
-
-Répertoire ici
+Repositerie/Répertoire
 
 <div align="center" style=";">
 
-<img width="500px" src="https://i.postimg.cc/0yjvt70D/Botdiscord.png">
+<img width="500px" src="https://res.cloudinary.com/jesse-thisdot/image/upload/c_limit,w_2000/f_auto/q_auto/v1624792468/e-603fc45fe6c0b4006873802f/pjqquf3fmruscm79fbat.gif">
 
 </div>
 
