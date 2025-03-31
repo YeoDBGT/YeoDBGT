@@ -115,7 +115,7 @@
 
 <img src="https://i.imgur.com/jFHtPxc.gif" alt="Animated GIF" width="500px" style="max-width: 100%; height: auto; display: inline-block;">
 
-<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))
+<img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie](https://github.com/YeoDBGT/EndProject)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire](https://github.com/YeoDBGT/EndProject)
 
 
 </div>
