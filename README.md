@@ -92,22 +92,22 @@ Bonjour à tous ! <img src="https://static-00.iconduck.com/assets.00/flag-france
 
 </div>
 
-<h5 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Secret Project 🇬🇧</h5>
+<h5 align="center" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">End Project</h5>
 
-Projet Secret 🇫🇷
+
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇬🇧</span><br>
+<span style="color: #7e1313"><img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/></span><br>
 
-<span style="color:white">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</span>
+<span style="color:white">A project in the context of my studies using several artificial intelligence created with sklearn for information prediction and with a web interface in react.</span>
 
 </blockquote>
 
 <blockquote style="background-color: #595959; padding: 10px; border-left: 4px solid #7e1313;">
 
-<span style="color: #7e1313">🐧 Description 🇫🇷</span><br>
+<span style="color: #7e1313"><img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/></span><br>
 
-<span style="color:white">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</span>
+<span style="color:white">Un projet dans le cadre de mes études utilisant plusieurs intelligence artificiel créer avec sklearn pour de la prédiction d'informations et avec une interface web en react.</span>
 
 </blockquote>
 
