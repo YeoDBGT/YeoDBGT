@@ -62,7 +62,7 @@
 
 <div align="center" style="width: 100%;">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0OWl0emlrcjV2aWMxbmVzYjNlMzEzNnE4eWtrcG04ZXl2aHA1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EIEWfmguJBQpBaruSo/giphy.gif" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0OWl0emlrcjV2aWMxbmVzYjNlMzEzNnE4eWtrcG04ZXl2aHA1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EIEWfmguJBQpBaruSo/giphy.gif" width="500px" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block ;">
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center" style="width: 100%;">
 
-<img src="https://i.imgur.com/jFHtPxc.gif" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block;">
+<img src="https://i.imgur.com/jFHtPxc.gif" alt="Animated GIF" width="500px" style="max-width: 100%; height: auto; display: inline-block;">
 
 <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))
 
