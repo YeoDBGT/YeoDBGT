@@ -113,7 +113,7 @@
 
 <div align="center" style="width: 100%;">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVxYmg3dWpkbTVpZDdnNWY1bjM4dDM1ZDlucnl0OWdhY3FpNmVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdH0MjQ83lGFVv7gjR/giphy.webp" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block;">
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVxYmg3dWpkbTVpZDdnNWY1bjM4dDM1ZDlucnl0OWdhY3FpNmVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdH0MjQ83lGFVv7gjR/giphy.webp](https://i.imgur.com/jFHtPxc.gif)" alt="Animated GIF" style="max-width: 100%; height: auto; display: inline-block;">
 
 <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire]([https://github.com/YeoDBGT/DiscordBot](https://github.com/YeoDBGT/EndProject))
 
