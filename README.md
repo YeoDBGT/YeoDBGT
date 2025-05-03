@@ -90,7 +90,7 @@
 
 <div align="center" style=";">
 
-<img width="500px" src="https://res.cloudinary.com/jesse-thisdot/image/upload/c_limit,w_2000/f_auto/q_auto/v1624792468/e-603fc45fe6c0b4006873802f/pjqquf3fmruscm79fbat.gif">
+<img width="500px" src="https://res.cloudinary.com/jesse-thisdot/image/upload/c_limit,w_2000/f_auto/q_auto/v1624792389/e-603fc45fe6c0b4006873802f/zhymu8ie5brrtr4e06mw.gif">
 
 <img src="https://flagemoji.net/img/flags/usa-flag.png" width="15px"/>[Repositerie](https://github.com/YeoDBGT/DiscordBot)/<img src="https://static-00.iconduck.com/assets.00/flag-france-emoji-2048x1279-3lsn6si4.png" width="15px"/>[Répertoire](https://github.com/YeoDBGT/DiscordBot)
 
